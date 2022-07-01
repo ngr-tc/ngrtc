@@ -1,8 +1,8 @@
 [package]
 name = "ngrtc"
-version = "0.0.0"
+version = "0.0.1"
 edition = "2021"
-authors = ["Rain Liu <y@liu.x>"]
+authors = ["Rain Liu <y@liu.mx>"]
 description = "Next Generation RTC in Rust"
 license = "MIT/Apache-2.0"
 documentation = "https://docs.rs/ngrtc"
