@@ -6,13 +6,13 @@
 package main
 
 import (
-	"ngrtc/collider"
 	"flag"
 	"log"
+	"ngrtc/collider"
 )
 
 var tls = flag.Bool("tls", false, "whether TLS is used")
-var port = flag.Int("port", 443, "The TCP port that the server listens on")
+var port = flag.Int("port", 8080, "The TCP port that the server listens on")
 var roomSrv = flag.String("room-server", "10.0.0.151", "The origin of the room server")
 
 func main() {
