@@ -13,7 +13,7 @@ import (
 
 var tls = flag.Bool("tls", false, "whether TLS is used")
 var port = flag.Int("port", 8080, "The TCP port that the server listens on")
-var roomSrv = flag.String("room-server", "10.0.0.151", "The origin of the room server")
+var roomSrv = flag.String("room-server", "127.0.0.1", "The origin of the room server")
 
 func main() {
 	flag.Parse()
