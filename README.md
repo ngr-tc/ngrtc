@@ -1,5 +1,5 @@
-./collidermain -room-server 127.0.0.1
+./ngrtc -host 127.0.0.1 -port 8080
 
-or
+or use default host 127.0.0.1 and port 8080
 
-./collidermain
+./ngrtc 
