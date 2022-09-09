@@ -1,4 +1,4 @@
-## Signaling Server for AppRTCMobile to replace https://appr.tc (https://github.com/webrtc/apprtc)
+## Signaling Server for AppRTCMobile to take over https://appr.tc (https://github.com/webrtc/apprtc)
 
 iOS/Mac (https://webrtc.googlesource.com/src/+/refs/heads/main/examples/objc/AppRTCMobile/) 
 
